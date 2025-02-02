@@ -19,8 +19,8 @@ A web application to easily find public holiday information for countries around
 - [Contact](#contact)
 
 ## Screenshots
-- [SC1](./1.png)
-- [SC2](./2.png)
+![SC1](./1.png)
+![SC2](./2.png)
 
 ## Description
 
